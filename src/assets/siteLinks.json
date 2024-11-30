@@ -5,14 +5,14 @@
     "link": "https://loli.uk/"
   },
   {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://loli.my/"
+  },
+  {
     "icon": "Envelope",
     "name": "邮箱",
     "link": "https://mail.loli.my/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://loli.my/"
   },
   {
     "icon": "Compass",
