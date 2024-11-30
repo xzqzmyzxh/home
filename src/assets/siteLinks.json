@@ -5,9 +5,9 @@
     "link": "https://loli.uk/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://loli.my/"
+    "icon": "Envelope",
+    "name": "邮箱",
+    "link": "https://mail.loli.my/"
   },
   {
     "icon": "CompactDisc",
@@ -21,8 +21,8 @@
   },
   {
     "icon": "Book",
-    "name": "导航",
-    "link": "https://loli.my/"
+    "name": "新番",
+    "link": "https://xin.fan/"
   },
   {
     "icon": "LaptopCode",
